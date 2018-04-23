@@ -1,2 +1,3 @@
 hello git 
 this is my first git file 
+add a test
